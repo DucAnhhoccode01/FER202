@@ -1,0 +1,38 @@
+.header{
+  border: 1px solid green;
+}
+
+.header .menu{
+  text-align: center;
+  border-top: 1px solid green;
+}
+
+.header .menu ul{
+  list-style: none;
+}
+
+.header .menu ul li{
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.header .top ul{
+  list-style: none;
+  text-align: right;
+}
+.header .top ul li{
+  display: inline-block;
+  padding-left: 20px;
+}
+
+
+.footer{
+  border: 1px solid green;
+  line-height: 100px;
+}
+
+.content{
+  border: 1px solid green;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
